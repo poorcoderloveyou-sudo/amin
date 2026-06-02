@@ -1,0 +1,6 @@
+{
+  "name": "AutoCare Admin Panel",
+  "description": "Full-suite administrator interface and PHP/MySQL backend generator for managing automotive service bookings, shops, customers, reviews, and payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
